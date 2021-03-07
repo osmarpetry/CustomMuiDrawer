@@ -2,7 +2,8 @@
   "title": "Material demo",
   "devDependencies": {
     "jest-styled-components": "^7.0.3",
-    "react-scripts": "latest"
+    "react-scripts": "latest",
+    "styled-components": "^5.2.1"
   },
   "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/components/drawers/MiniDrawer.js",
   "dependencies": {
