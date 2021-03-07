@@ -1,7 +1,6 @@
 
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Demo from './demo';
+import CustomDrawer from './components/CustomDrawer';
 
-ReactDOM.render(<Demo />, document.querySelector('#root'));
-    
+ReactDOM.render(<CustomDrawer width='240px' />, document.querySelector('#root'));
